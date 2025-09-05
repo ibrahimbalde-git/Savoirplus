@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779528846868",
+    "project_id": "savoirplustests",
+    "storage_bucket": "savoirplustests.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779528846868:android:9204f323dad6cc6866f101",
+        "android_client_info": {
+          "package_name": "com.example.savoir_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVQMM843vIKfvBdvVWpE_w1grghe1WFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

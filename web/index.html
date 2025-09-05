@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Plateforme Savoir+ Flutter Web avec Firebase.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="savoir_plus">
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/app_icon.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/app_icon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/app_icon.png">
+
+  <title>savoir_plus</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- ✅ Scripts Firebase (compat) -->
+  <script src="https://www.gstatic.com/firebasejs/11.0.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/11.0.2/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/11.0.2/firebase-firestore-compat.js"></script>
+
+  <!-- ✅ Google Sign-In Client ID -->
+  <meta name="google-signin-client_id" content="779528846868-tl1molfuco1jl3tdsslrknpr9jp4hnul.apps.googleusercontent.com">
+
+  <!-- ✅ Configuration Firebase -->
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyBb8RDeYJQwgELhuUXZ_MIR0CjSwotDYJk",
+      authDomain: "savoirplustests.firebaseapp.com",
+      projectId: "savoirplustests",
+      storageBucket: "savoirplustests.firebasestorage.app",
+      messagingSenderId: "779528846868",
+      appId: "1:779528846868:web:72fcb45dbcca50bf66f101",
+      measurementId: "G-5FDJH5M72T"
+    };
+    firebase.initializeApp(firebaseConfig);
+  </script>
+</head>
+<body>
+<!-- Flutter bootstrap -->
+<script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

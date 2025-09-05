@@ -1,0 +1,43 @@
+com.example.savoir_plus.app-jetified-core-viewtree-1.0.0-0 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\0ed53c20ca407aeec34414d700536ecf\transformed\jetified-core-viewtree-1.0.0\res
+com.example.savoir_plus.app-jetified-credentials-play-services-auth-1.2.0-rc01-1 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\12a7bd182820a4ccf396343a3ee24e6b\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.savoir_plus.app-lifecycle-viewmodel-2.7.0-2 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\1f0a7beb3260f92edebe6b5ecd5933ca\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.savoir_plus.app-lifecycle-livedata-2.7.0-3 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\1f7d50e0980df049ece3328e90eb376f\transformed\lifecycle-livedata-2.7.0\res
+com.example.savoir_plus.app-core-1.13.1-4 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\23309f009e38617039e0472ffe9ef880\transformed\core-1.13.1\res
+com.example.savoir_plus.app-jetified-startup-runtime-1.1.1-5 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\28cae9ce838112845e7c56c436f93346\transformed\jetified-startup-runtime-1.1.1\res
+com.example.savoir_plus.app-jetified-lifecycle-process-2.7.0-6 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\2ca491c4a02eb0d74a4bbc7906c0dbc0\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.savoir_plus.app-jetified-lifecycle-livedata-core-ktx-2.7.0-7 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\30583eb44e03ac6a96ad913d9cf0b757\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.savoir_plus.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-8 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\30e00048d600addd1af1035a177ae4e2\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.savoir_plus.app-jetified-play-services-base-18.1.0-9 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\3c3fcd9f03cbdc8cb44b1e7a8247ae56\transformed\jetified-play-services-base-18.1.0\res
+com.example.savoir_plus.app-jetified-window-1.2.0-10 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\40959c2ea362e2902e332d492d25b507\transformed\jetified-window-1.2.0\res
+com.example.savoir_plus.app-jetified-firebase-common-21.0.0-11 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\419a94932d4d027f8f6af5023276819f\transformed\jetified-firebase-common-21.0.0\res
+com.example.savoir_plus.app-jetified-annotation-experimental-1.4.0-12 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\4872ca20bd4ad688e288db6a97d2d854\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.savoir_plus.app-jetified-activity-1.10.1-13 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\5b5ad5dc1aa8f7f8fcbea79dd6051434\transformed\jetified-activity-1.10.1\res
+com.example.savoir_plus.app-jetified-core-common-2.0.3-14 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\5d6bd2bd9f65bd1dfc5a530014b560ac\transformed\jetified-core-common-2.0.3\res
+com.example.savoir_plus.app-jetified-play-services-auth-20.7.0-15 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\773e3ac5c3fe0916c425124a777c8b8b\transformed\jetified-play-services-auth-20.7.0\res
+com.example.savoir_plus.app-jetified-core-ktx-1.13.1-16 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\784bcb489b6b2b0933e9fbec71764336\transformed\jetified-core-ktx-1.13.1\res
+com.example.savoir_plus.app-jetified-credentials-1.2.0-rc01-17 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\7fe9537475e907d39fef6f2ff01e8158\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.savoir_plus.app-jetified-savedstate-1.2.1-18 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\8d276b762e0b242a665ef3ab69067fda\transformed\jetified-savedstate-1.2.1\res
+com.example.savoir_plus.app-core-runtime-2.2.0-19 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\b51e9d2d44f6d05ca7cbcad1ac1033f0\transformed\core-runtime-2.2.0\res
+com.example.savoir_plus.app-jetified-window-java-1.2.0-20 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\bc9008a2141d91dadc70fbac5ef1a737\transformed\jetified-window-java-1.2.0\res
+com.example.savoir_plus.app-jetified-core-1.0.0-21 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\bdc01c7b9e0274082a14be83ff372b5b\transformed\jetified-core-1.0.0\res
+com.example.savoir_plus.app-jetified-play-services-basement-18.4.0-22 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\c8b6f291c2aa81dc158316ea0767f6ab\transformed\jetified-play-services-basement-18.4.0\res
+com.example.savoir_plus.app-jetified-tracing-1.2.0-23 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\d35d89c987c2e5ac26a723c0c709c9c1\transformed\jetified-tracing-1.2.0\res
+com.example.savoir_plus.app-jetified-profileinstaller-1.4.0-24 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\dec6870f58378628824338807b0697e5\transformed\jetified-profileinstaller-1.4.0\res
+com.example.savoir_plus.app-browser-1.4.0-25 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\e2d95b960b80e16451eb3a2d605120f3\transformed\browser-1.4.0\res
+com.example.savoir_plus.app-fragment-1.7.1-26 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\e60b7a0a864f66f8443b1a86a309db30\transformed\fragment-1.7.1\res
+com.example.savoir_plus.app-lifecycle-livedata-core-2.7.0-27 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\ee9a7e57e5191634305192764429ec99\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.savoir_plus.app-lifecycle-runtime-2.7.0-28 C:\Users\Ibrahim BALDE\.gradle\caches\8.10.2\transforms\fd2d7a2fd490cce840f4e8fcf72597ea\transformed\lifecycle-runtime-2.7.0\res
+com.example.savoir_plus.app-packaged_res-29 C:\Users\Ibrahim BALDE\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.6.12\android\build\intermediates\packaged_res\debug
+com.example.savoir_plus.app-packaged_res-30 C:\Users\Ibrahim BALDE\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-5.7.0\android\build\intermediates\packaged_res\debug
+com.example.savoir_plus.app-packaged_res-31 C:\Users\Ibrahim BALDE\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.15.2\android\build\intermediates\packaged_res\debug
+com.example.savoir_plus.app-packaged_res-32 C:\Users\Ibrahim BALDE\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.28\android\build\intermediates\packaged_res\debug
+com.example.savoir_plus.app-packaged_res-33 C:\Users\Ibrahim BALDE\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.12+24\android\build\intermediates\packaged_res\debug
+com.example.savoir_plus.app-packaged_res-34 C:\Users\Ibrahim BALDE\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.17\android\build\intermediates\packaged_res\debug
+com.example.savoir_plus.app-pngs-35 D:\projetperso\savoir_plus\android\app\build\generated\res\pngs\debug
+com.example.savoir_plus.app-res-36 D:\projetperso\savoir_plus\android\app\build\generated\res\processDebugGoogleServices
+com.example.savoir_plus.app-resValues-37 D:\projetperso\savoir_plus\android\app\build\generated\res\resValues\debug
+com.example.savoir_plus.app-packageDebugResources-38 D:\projetperso\savoir_plus\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.savoir_plus.app-packageDebugResources-39 D:\projetperso\savoir_plus\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.savoir_plus.app-merged_res-40 D:\projetperso\savoir_plus\android\app\build\intermediates\merged_res\debug
+com.example.savoir_plus.app-debug-41 D:\projetperso\savoir_plus\android\app\src\debug\res
+com.example.savoir_plus.app-main-42 D:\projetperso\savoir_plus\android\app\src\main\res
